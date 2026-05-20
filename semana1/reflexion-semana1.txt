@@ -1,0 +1,10 @@
+La relación entre el uso responsable de la información en internet, la participación ciudadana y el uso de herramientas técnicas como Git es muy importante en la sociedad actual. 
+Cuando una persona verifica la información antes de compartirla, evita la propagación de noticias falsas que pueden confundir a los demás. 
+Este comportamiento responsable fortalece la participación ciudadana, porque permite que las personas tomen decisiones basadas en datos reales y confiables. 
+Además, al compartir información verificada, se fomenta el diálogo respetuoso y la construcción de acuerdos en la comunidad. 
+Las herramientas técnicas como Git y GitHub ayudan a organizar el trabajo colaborativo de forma transparente y ordenada. 
+Con Git, varias personas pueden trabajar en un mismo proyecto sin borrar el trabajo de los demás, y todo queda registrado. 
+Esto promueve la responsabilidad y el compromiso con el grupo. 
+Aprender a usar estas herramientas hace parte de ser un ciudadano digital activo, que no solo consume información, sino que también la produce y la comparte de forma ética. 
+De esta manera, la tecnología deja de ser solo entretenimiento y se convierte en un medio para mejorar la sociedad. 
+Por eso, el uso responsable de internet y el dominio de herramientas técnicas son habilidades clave para participar activamente en el mundo digital.
