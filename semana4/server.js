@@ -1,10 +1,12 @@
+
 const express = require('express');
 const app = express();
+const PORT = 3000;
 
 app.get('/', (req, res) => {
   res.send('Servidor funcionando correctamente');
 });
 
-app.listen(3000, () => {
-  console.log('Servidor ejecutándose en http://localhost:3000');
+app.listen(PORT, () => {
+  console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
