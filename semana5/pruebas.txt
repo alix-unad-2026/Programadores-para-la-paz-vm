@@ -1,0 +1,3 @@
+1. http://localhost:3000 -> Muestra "Servidor activo"
+2. http://localhost:3000/saludo -> Muestra "Hola comunidad" 
+3. http://localhost:3000/mensaje/juan -> Muestra "Hola juan" con el nombre que pongas en la URL

@@ -1,0 +1,2 @@
+La ruta POST /reporte recibe datos en el cuerpo de la petición y los devuelve en formato JSON con estado "Reporte recibido".
+En una aplicación comunitaria podría servir para que los usuarios envíen reportes de problemas, alertas de seguridad o solicitudes de ayuda desde sus celulares. El servidor guarda esos datos y puede mostrarlos a los líderes de la comunidad para actuar rápido.
