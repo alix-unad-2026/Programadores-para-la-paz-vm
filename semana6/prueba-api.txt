@@ -1,0 +1,5 @@
+Prueba 1 - Entrada: {"nombre":"Maria","mensaje":"Hola comunidad"}
+Respuesta: {"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}
+
+Prueba 2 - Entrada: {"nombre":"Juan","mensaje":"Hola desde mi proyecto"}  
+Respuesta: {"estado":"Datos recibidos","nombre":"Juan","mensaje":"Hola desde mi proyecto"}

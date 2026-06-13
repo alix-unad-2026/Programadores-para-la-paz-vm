@@ -1,0 +1,7 @@
+1. JSON es el formato estándar que usan todas las APIs REST modernas.
+2. Es más ligero que XML, por eso las peticiones son más rápidas.
+3. Su estructura clave-valor es fácil de leer para humanos y máquinas.
+4. JavaScript lo procesa nativo con JSON.parse sin librerías extras.
+5. Permite organizar datos complejos y anidados de forma ordenada.
+6. Es compatible con todos los lenguajes: Python, Java, PHP, C#.
+7. Facilita el debugging porque vemos la respuesta clara en curl/Postman.

@@ -1,0 +1,2 @@
+{"tipo":"Iluminación pública","descripcion":"Varias lámparas de la calle principal no funcionan desde hace una semana"}
+
