@@ -1,0 +1,4 @@
+Los arrays en memoria guardan datos temporales sin base de datos.
+GET consulta reportes y POST agrega reportes nuevos.
+Express facilita crear APIs REST con pocas lineas de codigo.
+Esta estructura sirve para sistemas de reportes comunitarios.

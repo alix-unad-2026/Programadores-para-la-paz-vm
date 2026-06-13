@@ -1,0 +1,4 @@
+1. GET http://localhost:3000/reportes
+> Resultado: [] array vacio
+2. POST http://localhost:3000/reportes
+> Resultado: Reporte registrado con id 1

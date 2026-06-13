@@ -1,0 +1,3 @@
+Ejemplo 1: Tipo: Alumbrado, Descripcion: Poste dañado calle 5
+Ejemplo 2: Tipo: Agua, Descripcion: Tuberia rota barrio norte
+Ejemplo 3: Tipo: Basura, Descripcion: Basurero desbordado parque
