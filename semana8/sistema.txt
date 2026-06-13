@@ -1,0 +1,1 @@
+Linux localhost 6.6.56-android15-8-abA065MUBS5BYG7-4k #1 SMP PREEMPT Mon Jul 21 15:48:32 UTC 2025 aarch64 Android

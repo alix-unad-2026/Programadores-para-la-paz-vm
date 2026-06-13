@@ -1,0 +1,20 @@
+5 Medidas de seguridad para plataformas comunitarias:
+
+1. No exponer datos personales
+   - Evitar publicar direcciones, telefonos o documentos en foros publicos
+
+2. Proteger credenciales
+   - Usar contraseñas largas y diferentes para cada plataforma
+   - Activar autenticacion de dos factores 2FA
+
+3. Usar conexiones seguras
+   - Verificar que la URL empiece con https://
+   - Evitar redes wifi publicas sin VPN
+
+4. Registrar accesos
+   - Revisar el historial de inicios de sesion
+   - Cerrar sesion en dispositivos que no uses
+
+5. Limitar acceso a informacion sensible
+   - Dar permisos solo a usuarios de confianza
+   - No compartir capturas con datos privados
