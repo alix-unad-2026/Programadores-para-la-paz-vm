@@ -1,0 +1,3 @@
+El servidor se ejecuta con el comando node server.js desde la carpeta semana9. 
+Al ejecutarlo muestra el mensaje "Servidor corriendo en http://localhost:3000" 
+y queda activo esperando solicitudes en el puerto 3000.

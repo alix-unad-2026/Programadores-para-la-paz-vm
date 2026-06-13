@@ -1,0 +1,9 @@
+Reflexión Semana 9 - Servidores con Node.js
+
+1. Aprendí que un servidor es un programa que escucha y responde solicitudes.
+2. Entendí que el puerto 3000 es la puerta donde el servidor espera conexiones.
+3. Comprendí que Express facilita mucho crear rutas y manejar peticiones.
+4. Vi que app.listen() es lo que pone al servidor en funcionamiento.
+5. Aprendí a probar las rutas desde el navegador y con curl.
+6. Me di cuenta de la importancia de los logs con console.log para monitorear.
+7. Esta práctica me ayudó a entender cómo funcionan las páginas web por dentro.

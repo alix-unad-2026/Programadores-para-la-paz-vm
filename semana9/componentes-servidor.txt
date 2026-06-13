@@ -1,0 +1,6 @@
+Componentes básicos del servidor:
+1. Express: Framework que facilita crear el servidor
+2. Puerto 3000: Donde el servidor escucha las solicitudes  
+3. Rutas GET / y /estado: Responden con mensajes al usuario
+4. app.listen(): Función que inicia el servidor
+5. console.log(): Muestra mensaje de confirmación en consola
