@@ -1,0 +1,10 @@
+REFLEXION SEMANA 10
+
+1. Las metodologías ágiles me ayudaron a organizar el trabajo por prioridades con el backlog.
+2. Trabajar por iteraciones permite entregar avances pequeños y recibir feedback rápido.
+3. La automatización con n8n evita tareas manuales repetitivas y ahorra tiempo al equipo.
+4. Usar Telegram para notificar hace que el equipo responda de forma inmediata a los reportes.
+5. Esto mejora la trazabilidad porque cada caso queda registrado desde que se crea.
+6. También protege la privacidad al no enviar datos sensibles por Telegram.
+7. En conclusión, combinar ágiles + automatización + Telegram da más organización.
+8. Nos da más transparencia y más respuesta rápida para la comunidad.

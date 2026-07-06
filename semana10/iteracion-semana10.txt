@@ -1,0 +1,15 @@
+SPRINT 1 - ITERACION SEMANA 10
+
+¿Que 2 tareas del backlog harías primero?
+1. Registrar una incidencia
+2. Recibir alerta en Telegram
+
+¿Por qué son las más importantes?
+Porque primero se debe capturar la información del ciudadano y después notificar al equipo para que la atención sea inmediata.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Definición de Terminado:
+1. La funcionalidad fue desarrollada y probada
+2. Fue revisada por otro miembro del equipo
+3. Está documentada y subida al repositorio de GitHub
+4. Cumple con el criterio de aceptación definido

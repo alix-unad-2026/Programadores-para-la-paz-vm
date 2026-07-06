@@ -1,0 +1,16 @@
+AUTOMATIZACION CON n8n Y TELEGRAM
+
+Evento que dispara la automatización:
+Cuando un ciudadano registra un nuevo reporte de incidencia en el sistema.
+
+Acción automatizada:
+n8n detecta el nuevo registro y envía automáticamente un mensaje al grupo de Telegram del equipo de atención.
+
+Ejemplo de mensaje:
+"NUEVO REPORTE RECIBIDO
+ID: #2026-001
+Tipo: Bache en vía principal
+Ubicación: Barrio El Prado"
+
+Información que NO debe enviarse:
+Datos personales sensibles como nombre completo, número de documento, dirección exacta, teléfono, correo electrónico, fotos con placas o rostros.
