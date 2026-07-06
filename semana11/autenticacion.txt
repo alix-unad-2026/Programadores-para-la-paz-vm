@@ -1,0 +1,15 @@
+La autenticación de usuarios mediante login es fundamental en una plataforma ciudadana porque permite identificar quién está accediendo al sistema y qué permisos tiene.
+
+Con el login se puede garantizar que solo las personas registradas puedan publicar causas, apoyar iniciativas o acceder a información interna. Esto evita que personas externas realicen acciones sin control y le da más seguridad a la plataforma.
+
+Algunas rutas deben estar protegidas porque manejan datos sensibles o funciones administrativas. Por ejemplo: la creación de causas, la eliminación de contenido, el acceso a reportes de participación y la gestión de usuarios. Si estas rutas quedan públicas, cualquier persona podría modificar información o acceder a datos que no le corresponden.
+
+Los datos que nunca se deben exponer públicamente son:
+- Contraseñas y tokens de acceso
+- Documentos de identidad y números de teléfono
+- Direcciones de domicilio
+- Correos electrónicos privados
+- Claves de API y credenciales del sistema
+- Información personal de los miembros de la comunidad
+
+Proteger estos datos es clave para cumplir con la privacidad y generar confianza en la comunidad.

@@ -1,0 +1,11 @@
+La interfaz de la plataforma debe ser sencilla, accesible y clara para que cualquier ciudadano pueda usarla sin dificultad.
+
+La interfaz tendría 3 secciones principales:
+
+1.  Sección de creación: Un formulario donde los usuarios puedan registrar una nueva causa comunitaria. Los campos serían: título de la causa, descripción detallada del problema, fecha de inicio y ubicación.
+
+2.  Sección de consulta: Una lista de todas las causas activas. Cada causa mostraría su título, una descripción corta, la fecha y el número de apoyos que ha recibido. Al darle clic se verían los detalles completos.
+
+3.  Sección de participación: Cada causa tendría un botón de "Apoyar". Al presionarlo se sumaría 1 al contador de apoyos. También se mostraría quiénes ya han apoyado, pero sin mostrar datos privados como correo o teléfono.
+
+Importante: La interfaz no debe mostrar información privada de los usuarios. Solo se vería el nombre público o usuario. El diseño debe ser responsable y evitar exponer datos sensibles.

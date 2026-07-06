@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana debe tener base de datos, 
+autenticación y protección de información.
+
+La base de datos organiza las causas y los apoyos.
+La autenticación identifica a los usuarios y evita fraudes.
+La protección de datos garantiza la privacidad de la comunidad.
+
+Sin estos 3 elementos la plataforma no sería segura ni confiable.
+Por eso es fundamental integrarlos desde el inicio del desarrollo.
+
