@@ -1,0 +1,17 @@
+MODELO DE DATOS SIMPLE
+
+Entidad: Causa
+id: Identificador único de la causa
+titulo: Nombre de la causa o petición
+descripcion: Explicación del problema que se quiere resolver
+fecha: Fecha de creación de la causa
+
+Para qué sirve: Almacena la información principal de cada petición que se crea en la plataforma.
+
+Entidad: Apoyo
+id: Identificador único del apoyo
+causa_id: Identificador de la causa a la que se apoya
+nombre: Nombre de la persona que apoya
+fecha: Fecha en que se registró el apoyo
+
+Para qué sirve: Guarda el registro de cada ciudadano que apoya una causa específica.

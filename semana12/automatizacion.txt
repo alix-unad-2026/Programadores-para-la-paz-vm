@@ -1,0 +1,10 @@
+AUTOMATIZACION CON n8n O TELEGRAM
+
+Evento que activa la automatización:
+Cuando se genera un nuevo documento PDF con la petición formal.
+
+Mensaje que se envía:
+"Nueva petición generada en la plataforma 'Petición en 3 Clics'. Ya se cuenta con los apoyos necesarios. Revise el documento adjunto."
+
+Información que NO debe enviarse por seguridad:
+Cédulas, teléfonos, direcciones, correos personales, comentarios sensibles o cualquier dato personal de los ciudadanos que apoyaron.

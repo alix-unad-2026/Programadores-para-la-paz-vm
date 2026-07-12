@@ -1,0 +1,12 @@
+REFLEXION SEMANA 12
+
+Durante el curso aprendí que la tecnología puede fortalecer mucho la participación ciudadana. 
+Con una plataforma como "Petición en 3 Clics" las comunidades pueden organizarse y hacer que su voz se escuche.
+Aprendí a conectar todos los componentes: backend, base de datos, generación de PDF y automatización.
+Entendí que un sistema sencillo puede resolver problemas reales si está bien pensado.
+También comprendí la importancia de proteger los datos personales y no compartir información sensible.
+Vi que automatizar con herramientas como n8n o Telegram ahorra tiempo y mantiene informada a la gente.
+Programar no es solo escribir código, también es pensar en el impacto social que tendrá.
+Esta actividad me enseñó a trabajar en equipo y a documentar cada parte del proyecto.
+Ahora sé que la tecnología bien usada ayuda a que las instituciones respondan más rápido a la comunidad.
+En conclusión, la tecnología es una herramienta poderosa para la organización y el cambio social.
